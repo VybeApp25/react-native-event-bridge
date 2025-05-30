@@ -1,1 +1,1 @@
-   #import "../MSREventBridge.h"
+   #import "/MSREventBridge.h"
